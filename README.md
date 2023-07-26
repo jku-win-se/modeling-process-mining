@@ -22,4 +22,5 @@ https://github.com/lowcomote/EMFCloud-process-mining
 ### AIDOaRt VCE Use Case Demo
 This repository contains the produced materials of the Hackathon challenges organized in the context of the AIDOaRt European project.
 https://github.com/AIDOaRt-VCE-Team/Solution-framework
+
 Preprint available: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4484021
