@@ -6,6 +6,9 @@ This top-level repository contains material concerning the modeling process mini
 This Eclipse plugin project can capture and serialize the Sirius event data as an XES log file.
 https://github.com/lowcomote/sirius.process.mining
 
+It is available on the Eclipse Marketplace for installation.
+https://marketplace.eclipse.org/content/mer
+
 ### MER Plugin for EcoreTools GSLP Editor
 This repository offers an integrated modeling event recorder into Ecore GLSP. It provides a web-based editor for Ecore Models (including Diagrams), with Eclipse Theia as the client. It contains two components: one GLSP language server (Server-side, written in Java) and one GLSP client extension to actually present the diagrams (Using Sprotty).
 https://github.com/lowcomote/EMFCloud-process-mining
@@ -27,3 +30,13 @@ Preprint available: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4484021
 ### MER Plugin for Papyrus-based Editors
 This Eclipse plugin project can capture and serialize the Papyrus event data as an XES log file.
 https://github.com/hadiDHD/Papyrus-Process-Mining
+
+#### The original EMF Change Metamodel
+https://download.eclipse.org/modeling/emf/emf/javadoc/2.6.0/org/eclipse/emf/ecore/change/package-summary.html
+
+#### The modified Change Metamodel
+https://github.com/lowcomote/sirius.process.mining/blob/master/ProcessMining/model/Change.ecore
+
+#### The modified OpenXES library for Java
+We modified the OpenXES library for Java to serialize the log traces in an efficient manner.
+https://github.com/hadiDHD/openxes
