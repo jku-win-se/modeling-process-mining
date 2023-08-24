@@ -12,6 +12,14 @@ It is available on the Eclipse Marketplace for installation.
 
 https://marketplace.eclipse.org/content/mer
 
+Watch the video for the installation guide.
+
+
+
+https://github.com/jku-win-se/modeling-process-mining/assets/15219809/bbc90379-2e99-42b5-aa01-bcaf733d6958
+
+
+
 ### MER Plugin for EcoreTools GSLP Editor
 This repository offers an integrated modeling event recorder into Ecore GLSP. It provides a web-based editor for Ecore Models (including Diagrams), with Eclipse Theia as the client. It contains two components: one GLSP language server (Server-side, written in Java) and one GLSP client extension to actually present the diagrams (Using Sprotty).
 
