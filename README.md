@@ -16,7 +16,11 @@ Watch the video for the installation guide.
 
 
 
-https://github.com/jku-win-se/modeling-process-mining/assets/15219809/bbc90379-2e99-42b5-aa01-bcaf733d6958
+
+
+https://github.com/jku-win-se/modeling-process-mining/assets/15219809/8e97da99-d93f-40da-8662-c826a224076a
+
+
 
 
 
